@@ -6,7 +6,10 @@
       <div class="text-2xl mt-2 opacity-80">Coming soon!</div>
     </div>
 
+
   </div>
+
+  <div class="bg-gray-800 text-white text-center">Hearts of Iron 4 Mod</div>
 </template>
 
 <style>
