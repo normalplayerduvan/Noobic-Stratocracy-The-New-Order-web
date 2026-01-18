@@ -16,7 +16,7 @@
 @import url("https://fonts.googleapis.com");
 
 .text2 {
-  color: white; 
+  color: black; 
   font-family: "Aldrich", sans-serif;
   font-size: 2.5rem; 
   font-weight: 400;
